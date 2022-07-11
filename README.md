@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**KimGunWoo9595/KimGunWoo9595** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**whddla/whddla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
  # 💫About Me :
-미래의 백엔드 개발자 김건우 입니다 :D
+미래의 백엔드 개발자 이종임 입니다 :D
 
 # 💻Tech Stack
 
@@ -34,9 +34,9 @@ Here are some ideas to get you started:
 
 # 📊GitHub Stats :
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimGunWoo9595&theme=Gradient&show_icons=true)
+![whddla's GitHub stats](https://github-readme-stats.vercel.app/api?username=whddla&theme=Gradient&show_icons=true)
 
-![KimGunWoo9595's github stats](https://github-readme-stats.vercel.app/api?username=KimGunWoo9595&show_icons=true)
+![whddla's github stats](https://github-readme-stats.vercel.app/api?username=whddla&show_icons=true)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KimGunWoo9595&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KimGunWoo9595&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whddla&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whddla&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
