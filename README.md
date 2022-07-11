@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
  # 💫About Me :
-미래의 백엔드 개발자 이종임 입니다 :D
+나무처럼 성장하고 있는 개발자 이종임 입니다 :D
 
 # 💻Tech Stack
 
