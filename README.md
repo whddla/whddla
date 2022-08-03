@@ -11,7 +11,7 @@
 <h2>🎈About Me🎈</h2>
 🎓Graduated : Induk university<br>
 📜Certificated Korea IT program in Seoul<br>
-💌Email : whddla8912@gamil.com<br>
+💌Email : whddla8912@gmail.com<br>
 
 # 💻Tech Stack
 
