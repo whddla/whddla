@@ -1,5 +1,5 @@
 <div align="center">
-
+<h2>✨Hello, I'm Jongim!✨</h2>
 <br>
 안녕하세요! 백엔드 개발자 준비중인 이종임입니다!!<br>
 "You just need to believe in yourself." <br><br>
