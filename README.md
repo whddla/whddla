@@ -9,6 +9,7 @@
 🎓Graduated : Induk university<br>
 📜Certificated Korea IT program in Seoul<br>
 💌Email : whddla8912@gmail.com<br>
+:sunny:Notion : https://www.notion.so/50754294ee434a7bbf43cc3b3d316901
 
 # 💻Tech Stack
 
